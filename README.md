@@ -70,7 +70,7 @@ Oversampling (mainority classes)
   
 BERT-based Ensembles
 ##### Essembly
-- Weighted averge of several high accuracy model.
+- Weighted averge of multiple high accuracy model.
 
 
 #### Challenges
@@ -96,7 +96,7 @@ BERT-based Ensembles
 	
 ####  Take away,
 
-Prepare pipeline and common script,visualization, logging / or use framework for Machine learning model management such as WandB, PytorchLighting,etc
+Prepare pipeline and common script,visualization, logging or use framework for Machine learning model management such as WandB, PytorchLighting,etc
 
 
 
