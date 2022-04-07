@@ -64,9 +64,11 @@ Oversampling (mainority classes)
 - Freezing different layers
 - Layerwise learnig rate trainig
 - Adding metadata information with new seperator and with category information
+- Stochastic Weight Averaging
+- Using Last 4 layers (average pooling, max pooling, concat)
  
   
-
+BERT-based Ensembles
 ##### Essembly
 - Weighted averge of several high accuracy model.
 
@@ -144,3 +146,6 @@ https://www.youtube.com/watch?v=iDulhoQ2pro (Attention Is All You Need)
 
 https://www.youtube.com/watch?v=-9evrZnBorM  (BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding)
 
+https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz (Pytorch)
+
+https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA (Kaggle)
