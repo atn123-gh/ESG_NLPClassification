@@ -66,6 +66,7 @@ Oversampling (mainority classes)
 - Adding metadata information with new seperator and with category information
 - Stochastic Weight Averaging
 - Using Last 4 layers (average pooling, max pooling, concat)
+- Frequent model evaluation 
  
   
 BERT-based Ensembles
